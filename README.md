@@ -22,3 +22,11 @@ the Compile menu and select Build All
 It should compile and run it.
 
 RC
+
+
+Download the VMDK here:
+
+https://www.dropbox.com/s/4jd50b8hfv4v3hf/MS-DOS%206.22-s001.zip?dl=0
+
+
+RC
